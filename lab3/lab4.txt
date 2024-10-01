@@ -1,0 +1,6 @@
+Printing: Text for test
+Paper content: Text for test
+Remain paint: 99
+Cartridge pollution: 0
+Adding 1 papers...
+Printing: Text for test
