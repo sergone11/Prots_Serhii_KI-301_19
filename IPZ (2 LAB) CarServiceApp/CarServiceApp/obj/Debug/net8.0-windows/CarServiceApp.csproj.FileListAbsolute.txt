@@ -1,0 +1,158 @@
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RegistrationForm.resources
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfo.cs
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.exe
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.deps.json
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.runtimeconfig.json
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.dll
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.pdb
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.dll
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\refint\CarServiceApp.dll
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.pdb
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.genruntimeconfig.cache
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\ref\CarServiceApp.dll
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairForm.resources
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MaintenanceBookingForm.resources
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MainMenuForm.resources
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairBookingForm.resources
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.TOForm.resources
+C:\Users\admin\source\repos\CarServiceApp\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AuthorisationForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.exe
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.deps.json
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.runtimeconfig.json
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.pdb
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MainMenuForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MaintenanceBookingForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairBookingForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.TOForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.GenerateResource.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfoInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfo.cs
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.CoreCompileInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\refint\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.pdb
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.genruntimeconfig.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\ref\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\AuthorizationForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\ProfileForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\RegistrationForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.AssemblyReference.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm\CarServiceApp\obj\Debug\net8.0-windows\CarServi.AA2A4471.Up2Date
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.exe
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.deps.json
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.runtimeconfig.json
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.pdb
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.AssemblyReference.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\AuthorizationForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MainMenuForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MaintenanceBookingForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\ProfileForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\RegistrationForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairBookingForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.TOForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.GenerateResource.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfoInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfo.cs
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.CoreCompileInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServi.AA2A4471.Up2Date
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\refint\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.pdb
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.genruntimeconfig.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\ref\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.exe
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.deps.json
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.runtimeconfig.json
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\CarServiceApp.pdb
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.AssemblyReference.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\AuthorizationForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MainMenuForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.MaintenanceBookingForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\ProfileForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\RegistrationForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairBookingForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.RepairForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.TOForm.resources
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.GenerateResource.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfoInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.AssemblyInfo.cs
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.csproj.CoreCompileInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServi.AA2A4471.Up2Date
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\refint\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.pdb
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\CarServiceApp.genruntimeconfig.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\obj\Debug\net8.0-windows\ref\CarServiceApp.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceApp Norm – копія\CarServiceApp\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
