@@ -1,0 +1,66 @@
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\CarServiceServer.exe
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\CarServiceServer.deps.json
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\CarServiceServer.runtimeconfig.json
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\CarServiceServer.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\CarServiceServer.pdb
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.AssemblyInfo.cs
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\refint\CarServiceServer.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.pdb
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.genruntimeconfig.cache
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\ref\CarServiceServer.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServiceServer.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\CarServiceServer\CarServiceServer\obj\Debug\net8.0\CarServi.B2DFA695.Up2Date
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.exe
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.deps.json
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.runtimeconfig.json
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.pdb
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.csproj.AssemblyReference.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.AssemblyInfoInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.AssemblyInfo.cs
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.csproj.CoreCompileInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServi.B2DFA695.Up2Date
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\refint\CarServiceServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.pdb
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.genruntimeconfig.cache
+D:\3 курс (1)\ІПЗ\Лаби\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\ref\CarServiceServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.exe
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.deps.json
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.runtimeconfig.json
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\CarServiceServer.pdb
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.csproj.AssemblyReference.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.AssemblyInfoInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.AssemblyInfo.cs
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.csproj.CoreCompileInputs.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServi.B2DFA695.Up2Date
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\refint\CarServiceServer.dll
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.pdb
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\CarServiceServer.genruntimeconfig.cache
+D:\3 курс (1)\ІПЗ\Лаби\3 lab (IPZ)\CarServiceServer-(Copiya)\CarServiceServer\obj\Debug\net8.0\ref\CarServiceServer.dll
